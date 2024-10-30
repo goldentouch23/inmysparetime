@@ -1,0 +1,106 @@
+body {
+margin: 10px;
+border-color: pink;
+background-color:#F71B62 ;
+ font-size: 20px;
+}
+
+
+
+h1 {
+text-align: center;
+color: pink;
+font-size:50px;
+font-family: Helvetica;
+font-style: italic;
+}
+h2 {
+text-align: left;
+color:pink ;
+font-size:50px;
+font-family: Helvetica;
+font-style: italic;
+}
+p.para {
+color: black;
+font-size:20px;
+font-family: Helvetica;
+font-weight: bold;
+line-height: 1.5em;
+border-color: pink;
+border-style: solid;
+border-width: 3px;
+padding: 20px;
+}
+p.para2{
+color:black ;
+font-size:20px;
+font-family: Helvetica;
+font-weight: bold;
+line-height: 1.5em;
+padding: 20px;
+}
+p.para3 {
+color: black;
+font-size:20px;
+font-family: Helvetica;
+font-weight: bold;
+line-height: 1.5em;
+border-color: pink;
+border-style: solid;
+border-width: 3px;
+padding: 20px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: pink;
+outline-color: black;
+outline-style: solid;
+border: 2px solid black;
+
+
+}
+
+li {
+  float: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+font-family: Helvetica;
+}
+
+/* Change the link color to blue on hover */
+li a:hover {
+  background-color: blue;
+}
+
+img{
+height:350px;
+width:380px;
+border-color: pink;
+border-style: solid;
+margin: 50px 50px 50px 50px;
+}
+
+
+.footer {
+left:0;
+bottom: 0;
+width:100%;
+text-align: center;
+background-color: pink;
+}
+
+
+
+		
